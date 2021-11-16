@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7i(c6e$5fwsjd=yac!ci8)p(+c=*kbl8=adf&ebmutvi!6yz12
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["livechating.herokuapp.com/"]
+ALLOWED_HOSTS = ["livechating.herokuapp.com"]
 
 
 # Application definition
